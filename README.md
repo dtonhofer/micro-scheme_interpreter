@@ -2,7 +2,7 @@
 
 ## What is this
 
-An ancient effort from the early 90s to write a minimal Scheme interpreter, during my IT Engineering studies.
+An ancient effort from the early 90s to write a minimal Scheme interpreter, during my IT Engineering studies. The original files have a "modify date" of 1993-08-02.
 
 This took a couple of months but was done with more enthusiasm than skill! But it actually worked.
 
