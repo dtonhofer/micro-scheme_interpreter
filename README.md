@@ -4,7 +4,7 @@
 
 An ancient effort from the early 90s to write a minimal [Scheme language](https://en.wikipedia.org/wiki/Scheme_(programming_language)) interpreter, made for my IT engineering studies. This was an exercise for the "Functional Programming" course. 
 
-It took a couple of months and was done with more enthusiasm than skill (and I didn't use [lex and yacc](http://dinosaur.compilertools.net/) either)!
+It took a couple of months and was done with more enthusiasm than skill (and I didn't use [lex and yacc](http://dinosaur.compilertools.net/) either), during the summer vacation, in sweltering heat, on a not very powerful early laptop.
 
 But it actually worked.
 
