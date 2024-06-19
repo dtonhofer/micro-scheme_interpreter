@@ -8,7 +8,7 @@ It took a couple of months and was done with more enthusiasm than skill (and I d
 
 But it actually worked.
 
-The original was written in C using [Turbo C++](https://en.wikipedia.org/wiki/Turbo_C%2B%2B), possibly v3.0, on an i486, with memory overlays but then got simplified for Solaris + gcc on SPARCStattion IPC.
+The original was written in C using [Turbo C++](https://en.wikipedia.org/wiki/Turbo_C%2B%2B), possibly v3.0, on an i486, with memory overlays. It then got simplified for Solaris + gcc on a SPARCStation IPC.
 
 # Status
 
